@@ -1,6 +1,5 @@
-# HelloUnity
-FirstUnity3D...... 
-Unity2017
-key borad rudder up, down, rigth, left : move
-mouse left click : bullet fire
-movse move x : trun
+HelloUnity
+# Unity2017</br> first Unity 3D</br>
+key borad rudder up, down, rigth, left : move</br>
+mouse left click : bullet fire</br>
+movse move x : trun</br>
